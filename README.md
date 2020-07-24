@@ -1,4 +1,4 @@
-![Cover](https://github.com/orogersilva/orogersilva/images/mybook.jpg)
+![Cover](https://github.com/orogersilva/orogersilva/blob/master/images/mybook.jpg)
 
 ### Hi there, I'm Roger silva 👋. Welcome to my GitHub!
 
