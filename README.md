@@ -1,16 +1,18 @@
-### Hi there 👋
+![Cover](https://github.com/orogersilva/orogersilva/images/mybook.jpg)
 
-<!--
-**orogersilva/orogersilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Roger silva 👋. Welcome to my GitHub!
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/orogersilva/)](https://www.linkedin.com/in/orogersilva/)
+![Twitter Follow](https://img.shields.io/twitter/follow/orogersilva?&style=social)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I solve problems through mobile software. As a Mobile Specialist, this GitHub is focused, mainly, in Android source code.** 
+
+**I'm heavy practitioner of Extreme Programming. "INDIVIDUALS AND INTERACTIONS over processes and tools" - I strongly believe that I am also interessed in other Agile topics.**
+
+* I am working at [Phi](https://www.linkedin.com/company/somosaphi/), [4all Hub](https://www.linkedin.com/company/4all/) as a Mobile Specialist and in Scrum Master role in Porto Alegre, Brazil.
+* I write on [Medium](https://medium.com/@orogersilva) mainly about Android Development, Software Engineering and Agile.
+* I have [presentations](https://speakerdeck.com/orogersilva) that I did in past conferences and in short talks.
+
+<br />
+
+![Roger Silva's Github Stats](https://github-readme-stats.vercel.app/api?username=orogersilva&count_private=true)
