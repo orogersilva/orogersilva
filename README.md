@@ -7,7 +7,7 @@
 
 **I solve problems through mobile software. As a Mobile Specialist, this GitHub is focused, mainly, in Android source code.** 
 
-**I'm heavy practitioner of Extreme Programming. "INDIVIDUALS AND INTERACTIONS over processes and tools" - I strongly believe that I am also interessed in other Agile topics.**
+**I'm a heavy practitioner of Extreme Programming. "INDIVIDUALS AND INTERACTIONS over processes and tools" - I strongly believe that and I am also interessed in other Agile topics.**
 
 * 👨‍💻 I am working at [Phi](https://www.linkedin.com/company/somosaphi/), [4all Hub](https://www.linkedin.com/company/4all/) as a Mobile Specialist and in Scrum Master role in Porto Alegre, Brazil.
 * ✍ I wrote a [book](https://www.casadocodigo.com.br/products/livro-entrega-continua-android) about Continuous Delivery (CD) for Android Development context.
