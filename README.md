@@ -1,6 +1,6 @@
 ![Cover](https://github.com/orogersilva/orogersilva/blob/master/images/mybook.jpg)
 
-### Hi there, I'm Roger silva 👋. Welcome to my GitHub!
+### Hi there, I'm Roger Silva 👋. Welcome to my GitHub!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/orogersilva/)](https://www.linkedin.com/in/orogersilva/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/orogersilva?&style=social)
