@@ -8,7 +8,7 @@
 
 **I'm a heavy practitioner of Extreme Programming. "INDIVIDUALS AND INTERACTIONS over processes and tools" - I strongly believe in that and I am also interessed in other Agile topics.**
 
-* 👨‍💻 I am working at [Aubay](https://www.linkedin.com/company/aubay-portugal/), as a Senior Android Developer in Lisbon, Portugal.
+* 👨‍💻 I am a Senior Android Developer working in Lisbon, Portugal.
 * ✍ I wrote a [book](https://www.casadocodigo.com.br/products/livro-entrega-continua-android) about Continuous Delivery (CD) for Android Development context.
 * 🎤 I have [presentations](https://speakerdeck.com/orogersilva) that I did in past conferences and throughout short talks.
 
